@@ -3,3 +3,19 @@ Team matches
 
 Player matches
 {"player": "sOAZ", "result": "Win", "vs": "Giants Gaming", "kills": "7", "deaths": "5", "assists": "5", "gold": "16.7", "cs": "317"}
+
+Proposal
+{"vs": "Giants Gaming", "result": "Win", "players": {
+"sOAZ": {
+  "hero": "Zed",
+  "kills": "7", 
+  "deaths": "5", 
+  "assists": "5", 
+  "gold": "16.7", 
+  "cs": "317"
+}, 
+"Cyanide": "Volibear", 
+"xPeke": "Ahri",
+"YellOwStaR": "Twitch", 
+"nRated": "Thresh"
+}}
